@@ -2,7 +2,7 @@
 
 #skapar användare och mappar åt dom
 
-# måste vara root annars funkar det inte
+# måste vara root annars fungerar det inte
 if [ "$EUID" -ne 0 ]; then
     echo "kör som root"
     exit 1
