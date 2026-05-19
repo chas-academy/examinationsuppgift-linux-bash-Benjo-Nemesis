@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/6b138a8c-60cb-4a7e-9645-3c7dd3bf7dec
+
+
+
+https://github.com/user-attachments/assets/650efeb6-4103-4103-9a3e-f2cc28f589c7
+
+
+
+https://github.com/user-attachments/assets/9801cc3d-f113-4269-90d3-0fbe0a0e704b
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sk6t7KfR)
 # 🎓 Linux & Bash: Skapa Användarhanterings-script
 
